@@ -1,4 +1,4 @@
-<h2> Welcome 👋 , I'm Thomas Sentre.</h2>
+<h2> Welcome 👋 , I'm Vladyslav Kramarenko.</h2>
 
 I'm a Software developer, specializing in building exceptional websites and mobile applications, and everything in between.
 
