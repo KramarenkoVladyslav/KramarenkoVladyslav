@@ -1,6 +1,6 @@
 <h2> Welcome 👋 , I'm Vladyslav Kramarenko.</h2>
 
-I'm a Software developer, specializing in building exceptional websites and mobile applications, and everything in between.
+I'm a Front-end developer, specializing in building exceptional websites and mobile applications, and everything in between.
 
 
 ## About me
@@ -26,7 +26,6 @@ Currently, I'm studying at the Softserve Academy and actively looking for a perm
 - 🔧 &nbsp;IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;Design:&nbsp;
-  ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
 
 <br/>
